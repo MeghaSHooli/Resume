@@ -307,8 +307,8 @@ section{
     text-align: center;
     
     a{
-      color: #fff;
-      text-transform: uppercase;
+      color: blue;
+      text-transform: underline;
       
       .btn-resume{
         display: inline-block;
